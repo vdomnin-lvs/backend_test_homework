@@ -4,6 +4,8 @@ README.md
 build/side.txt
 
 venv/
+__pycache__/
+.vscode/
 
 #ignore docs
 *.doc
