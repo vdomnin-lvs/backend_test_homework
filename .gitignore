@@ -1,0 +1,10 @@
+# ignore file 
+README.md
+
+build/side.txt
+
+#ignore docs
+*.doc
+*.docx
+
+
