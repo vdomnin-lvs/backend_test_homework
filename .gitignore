@@ -3,6 +3,8 @@ README.md
 
 build/side.txt
 
+venv/
+
 #ignore docs
 *.doc
 *.docx
